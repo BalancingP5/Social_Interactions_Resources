@@ -1,2 +1,2 @@
-# Social_Needs_Resources
-Balancing Social Needs and Access to Resources
+# Social_Interactions_Resources
+Balancing Social Interactions and Access to Resources
